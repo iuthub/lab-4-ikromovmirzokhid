@@ -4,6 +4,6 @@ You need to use given repo to create your music list.
 
 ### Student Details
 
-- **Student ID**: your studentID
-- **Student Name**: your name
-- **Section Number**: your course section number
+- **Student ID**: U1710045
+- **Student Name**: Ikromov Mirzokhidjon
+- **Section Number**: 001
